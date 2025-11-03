@@ -8,7 +8,7 @@
   <p align="center">
     <a href="mailto:robert.burke@eagles.oc.edu">📧 Email</a> •
     <a href="https://linkedin.com/in/robertburkeoc">💼 LinkedIn</a> •
-    <a href="https://tryhackme.com/p/robertburke">🥷 TryHackMe #87</a>
+    <a href="https://tryhackme.com/p/robert.burke">🥷 TryHackMe</a>
   </p>
 </p>
 
