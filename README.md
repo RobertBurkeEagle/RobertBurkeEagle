@@ -3,7 +3,7 @@
   <h1 align="center">Robert Burke</h1>
   <p align="center">
     <i>CS + Cybersecurity | Dual Master's in AI | 3.95 GPA</i><br>
-    <b>AI-Powered Threat Detection | Genetic Algorithms | NCL Top 20%</b>
+    <b>AI-Powered Threat Detection | Genetic Algorithms | NCL Competitor</b>
   </p>
   <p align="center">
     <a href="mailto:robert.burke@eagles.oc.edu">📧 Email</a> •
