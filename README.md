@@ -17,7 +17,7 @@
 ### 🔒 **Cybersecurity + AI Projects**
 
 | Project | Tech | Key Skills |
-|-------|------|----------|----------|
+|-------|------|----------|
 | **[AI Eight Queens Solver](https://github.com/RobertBurkeEagle/eight_queens_ai)** | Next.js, TypeScript, Firebase, Genetic Algorithms | Heuristic AI, Real-time Visualization, MLOps |
 | **[Secure POS System](https://github.com/RobertBurkeEagle/POS-system)** | Java, OOP, Input Validation | Secure Coding, CRUD, Transaction Logic |
 | **[Phishing Email Classifier (WIP) 🚧](https://github.com/RobertBurkeEagle/phishing-detector)** | Python, BERT, Flask, Streamlit | NLP, Threat Detection, Model Deployment |
