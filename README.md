@@ -7,7 +7,7 @@
   </p>
   <p align="center">
     <a href="mailto:robert.burke@eagles.oc.edu">📧 Email</a> •
-    <a href="https://linkedin.com/in/robertburkeoc">💼 LinkedIn</a> •
+    <a href="https://linkedin.com/in/the-robert-burke">💼 LinkedIn</a> •
     <a href="https://tryhackme.com/p/robert.burke">🥷 TryHackMe</a>
   </p>
 </p>
@@ -16,11 +16,11 @@
 
 ### 🔒 **Cybersecurity + AI Projects**
 
-| Project | Tech | Live Demo | Key Skills |
+| Project | Tech | Key Skills |
 |-------|------|----------|----------|
-| **[AI Eight Queens Solver](https://github.com/RobertBurkeEagle/eight_queens_ai)** | Next.js, TypeScript, Firebase, Genetic Algorithms | [Live](https://queens.robertburke.dev) | Heuristic AI, Real-time Visualization, MLOps |
-| **[Secure POS System](https://github.com/RobertBurkeEagle/POS-system)** | Java, OOP, Input Validation | [Demo Video](https://youtu.be/xxx) | Secure Coding, CRUD, Transaction Logic |
-| **[Phishing Email Classifier 🚧](https://github.com/RobertBurkeEagle/phishing-detector)** | Python, BERT, Flask, Streamlit | Coming Soon | NLP, Threat Detection, Model Deployment |
+| **[AI Eight Queens Solver](https://github.com/RobertBurkeEagle/eight_queens_ai)** | Next.js, TypeScript, Firebase, Genetic Algorithms | Heuristic AI, Real-time Visualization, MLOps |
+| **[Secure POS System](https://github.com/RobertBurkeEagle/POS-system)** | Java, OOP, Input Validation | Secure Coding, CRUD, Transaction Logic |
+| **[Phishing Email Classifier (WIP) 🚧](https://github.com/RobertBurkeEagle/phishing-detector)** | Python, BERT, Flask, Streamlit | NLP, Threat Detection, Model Deployment |
 
 ---
 
